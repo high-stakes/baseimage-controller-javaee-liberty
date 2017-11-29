@@ -1,6 +1,6 @@
 -Xms8m
 -Xmx32m
--Xss128k
+-Xss256k
 -XX:MaxHeapFreeRatio=10
 -XX:MinHeapFreeRatio=10
 -XX:MetaspaceSize=16m
